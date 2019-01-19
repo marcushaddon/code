@@ -1,4 +1,4 @@
-# Portfolio
+# Code Samples
 
 ## Work projects
 **[Boss Babes ATX Video Diary](https://github.com/marcushaddon/bbatx-video-client)**
