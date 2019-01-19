@@ -36,5 +36,3 @@ A command line tool for converting video into animated ASCII art built using Pyt
 
 A minimal Python package for implementing Markov chains.
 
-
-## Early Projects
