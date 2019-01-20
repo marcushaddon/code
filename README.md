@@ -1,4 +1,5 @@
 # Code Samples
+(Click on titles to see code)
 
 ## Work projects
 **[Boss Babes ATX Video Diary](https://github.com/marcushaddon/bbatx-video-client)**
