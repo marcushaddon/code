@@ -12,12 +12,6 @@ A web app for guests of BBATX events to provide feedback to the organization in 
 
 A bit.ly clone built using Python, Flask, and MongoDB. The [front end](https://github.com/marcushaddon/bytely.me-frontend) was my first project in React.
 
-
-**[Anagram Finder](https://github.com/marcushaddon/anagolang)**
-
-A Go package for finding all valid English anagrams of a given word and an accompanying web server and front end for demonstration.
-
-
 **[Clique Percolation Method Implementation](https://github.com/marcushaddon/go-clique-perc)**
 
 A programming assignment for a job interview. The instructions were to find maximal cliques in an undirected graph using the [Clique Percolation Method](https://en.wikipedia.org/wiki/Clique_percolation_method) in Go.
